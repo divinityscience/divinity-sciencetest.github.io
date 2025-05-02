@@ -1,14 +1,13 @@
---
-publishDate: 2023-08-12T00:00:00Z
-author: Sunny
-title: Why Mindfulness Is Essential for Managing Daily Stress
-excerpt: Discover how mindfulness can help you manage daily stress effectively. Learn the benefits and techniques to incorporate mindfulness into your daily routine.
-image: https://images.unsplash.com/photo-1494412651409-8963ce7935a7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
-category: Wellness
+---
+publishDate: 2023-07-17T00:00:00Z
+title: Divinity Science post qqq
+excerpt: While easy to get started, Astrowind is quite complex internally.  This page provides documentation on some of the more intricate parts.
+image: https://images.unsplash.com/photo-1534307671554-9a6d81f4d629?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1651&q=80
+category: Documentation
 tags:
-  - mindfulness
-  - stress management
-  - mental health
+  - astro
+  - tailwind css
+  - front-end
 metadata:
   canonical: https://divinityscience.com/why-mindfulness-is-essential-for-managing-daily-stress
 ---
