@@ -1,6 +1,5 @@
 ---
 publishDate: 2023-08-12T00:00:00Z
-author: sunny
 title: How to Start a Mindfulness Practice for Beginners
 excerpt: Discover the benefits of mindfulness and learn how to start a mindfulness practice with our step-by-step guide for beginners.
 image: https://images.unsplash.com/photo-1506126613408-eca07ce68773?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1999&q=80
