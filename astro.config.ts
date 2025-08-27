@@ -23,7 +23,6 @@ const whenExternalScripts = (items: (() => AstroIntegration) | (() => AstroInteg
 
 export default defineConfig({
   site: 'https://divinityscience.github.io',
-  base: '/divinity-sciencetest.github.io',
   output: 'static',
 
   integrations: [
